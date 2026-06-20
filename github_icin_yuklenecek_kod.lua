@@ -51,7 +51,7 @@ local function InitModMenuTab()
         }
         
         SettingPageDefine.ModMenu = {
-            Key = "ModMenu", loc = "⚡ SEAS CONFIG ⚡", UIKey = "Setting_Page_Privacy",
+            Key = "ModMenu", loc = "⚡ ATTC CONFIG ⚡", UIKey = "Setting_Page_Privacy",
             Category = {
                 { Key = "Cat_Weapon", loc = "🔫 WEAPON HACKS", Stack = WeaponStack },
                 { Key = "Cat_Player", loc = "🦸 PLAYER HACKS", Stack = PlayerStack },
